@@ -4,7 +4,7 @@
 ## I'm a Husband, Father, Developer, and Friend!!
 
 - 🌱 I’m currently learning Game developement @Outscal
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other game developers
 - 🥅 2022 Goals: Create as many games as possible
 - ⚡ Fun fact: I love to hangout and play chess
 
@@ -33,7 +33,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=panjwaniranjitsingh&show_icons=true&hide_border=true" />
 
 </details>
 
