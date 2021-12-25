@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Father, Developer, and Friend!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Game developement @Outscal
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Create as many games as possible
 - ⚡ Fun fact: I love to hangout and play chess
